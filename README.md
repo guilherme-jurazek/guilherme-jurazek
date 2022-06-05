@@ -15,6 +15,8 @@ Apaixonado por desafios, e com muita vontade de aprender cada vez mais. Espero a
 - Python.
 - React.
 - SQL Server.
+- Jaca
+- Spring
 
 ### Sobre mim:
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Jurazek-00CED1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-jurazek-guedes-2a6b6917a/)](https://www.linkedin.com/in/guilherme-jurazek-guedes-2a6b6917a/) 
