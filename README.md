@@ -15,7 +15,7 @@ Apaixonado por desafios, e com muita vontade de aprender cada vez mais. Espero a
 - Python.
 - React.
 - SQL Server.
-- Jaca
+- Java
 - Spring
 
 ### Sobre mim:
