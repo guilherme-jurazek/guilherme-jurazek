@@ -1,7 +1,7 @@
 ### Oee!
 
 ## Meu nome é Guilherme Jurazek!
-- Eu estou fazendo o curso de Bacharelado de Sistemas de Informação pela UNOESTE.
+- Formado em Sistemas de Informação pela UNOESTE.
 - Atuando como Desenvolvedor de Software na VCOM Tecnologia.
 
 #### Objetivos
