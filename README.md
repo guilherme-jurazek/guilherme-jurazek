@@ -1,5 +1,3 @@
-### Oee!
-
 ## Meu nome é Guilherme Jurazek!
 - Formado em Sistemas de Informação pela UNOESTE.
 - Atuando como Desenvolvedor de Software na VCOM Tecnologia.
