@@ -3,7 +3,9 @@
 - Atuando como Desenvolvedor de Software na VCOM Tecnologia.
 
 #### Objetivos
-Apaixonado por desafios, e com muita vontade de aprender cada vez mais. Espero algum dia conseguir mudar o mundo.
+Apaixonado por desafios, e com muita vontade de aprender cada vez mais. Espero algum dia conseguir mudar o mundo. 
+Caso tenha vindo ver meus commits e etc... Não vai encontrar muita coisa, meus projetos são todos "privados" no GitHub.
+Se quiser saber melhor dos meus projetos, entre em contato por favor.
 
 ### Estudando...
 - Linguagem C/C++.
